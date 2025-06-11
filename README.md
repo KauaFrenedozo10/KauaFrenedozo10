@@ -7,9 +7,10 @@ Sou um desenvolvedor **Front-End** em formação, apaixonado por criar interface
 Atualmente focado em:
 
 - Desenvolvimento Web com **JavaScript**, **HTML5** e **CSS3**
-- Aprimoramento com **React**, **Bootstrap** e **design responsivo**
-- Noções de **Python** para automações e lógica de programação
-- Boas práticas de versionamento com **Git e GitHub**
+- Conhecimentos em **Java** e **Python** para lógica e back-end
+- Controle de versões com **Git**, seguindo o fluxo de trabalho **GitFlow**
+- Aplicação de metodologias ágeis como **Scrum** e **Kanban**
+- Boas práticas de código limpo e responsivo
 
 🎯 Busco oportunidades para crescer como desenvolvedor, colaborando em projetos reais e desafiadores!
 
@@ -18,12 +19,23 @@ Atualmente focado em:
 ## 🛠️ Tecnologias que uso
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+---
+
+## 🧰 Ferramentas que utilizo
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitFlow-4285F4?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
@@ -42,7 +54,7 @@ Atualmente focado em:
 - 🎓 Técnico em Desenvolvimento de Sistemas - **SENAI**
 - 📚 Terceiro ano do Ensino Médio - **Educação Adventista**
 - 🌍 8 anos de Inglês - **CCAA**
-  
+
 ---
 
 ## 📫 Contato
