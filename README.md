@@ -2,7 +2,7 @@
 
 ## 💻 Sobre Mim
 
-Sou um desenvolvedor **Front-End** em formação, apaixonado por criar interfaces modernas e funcionais! Atualmente curso Técnico em Desenvolvimento de Sistemas no SENAI e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores.
+Sou um desenvolvedor **Front-End** em formação, atualmente curso Técnico em Desenvolvimento de Sistemas no SENAI e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores.
 
 Atualmente focado em:
 
