@@ -74,4 +74,4 @@ Atualmente focado em:
 
 ---
 
-### ✨ "A prática constante transforma conhecimento em poder." 
+### "O verdadeiro diferencial está na dedicação diária ao aprimoramento." 
