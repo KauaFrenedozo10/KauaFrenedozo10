@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0C1320,6C3483&height=180&section=header&text=Olá,%20sou%20Kauã%20Henrique%20👋&fontSize=28&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0C1320,6C3483&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=ffffff"/>
 
 
 ## 💻 Sobre Mim
