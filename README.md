@@ -1,16 +1,16 @@
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=000000&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
 
 <!-- TÍTULO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+em+Formação;Apaixonado+por+Tecnologia+🚀;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+em+Formação&background=000000" />
 </p>
 
 ---
 
 ## 💻 Sobre Mim
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 Sou um desenvolvedor **Full Stack** em formação, atualmente curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores.
 
@@ -76,6 +76,6 @@ Atualmente focado em:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
 
 <p align="center"><i>"O verdadeiro diferencial está na dedicação diária ao aprimoramento."</i></p>
