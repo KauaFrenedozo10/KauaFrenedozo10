@@ -3,7 +3,7 @@
 
 <!-- TÍTULO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+em+Formação&background=000000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+em+Formação" />
 </p>
 
 ---
