@@ -3,7 +3,7 @@
 
 <!-- TÍTULO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Front-End+em+Formação;Apaixonado+por+Tecnologia+🚀;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+em+Formação;Apaixonado+por+Tecnologia+🚀;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Sou um desenvolvedor **Front-End** em formação, atualmente curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores.
+Sou um desenvolvedor **Full Stack** em formação, atualmente curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores.
 
 Atualmente focado em:
 
@@ -65,19 +65,13 @@ Atualmente focado em:
 
 ---
 
-## 📫 Contato
+## 📫 Contato & Portfólio
 
 <p align="center">
   <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/kauafrenedozo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-## 🐍 Snake Game dos Commits
-<p align="center">
-  <img src="https://github.com/KauaFrenedozo10/KauaFrenedozo10/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <a href="https://kauafrenedozo-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-6C3483?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 ---
