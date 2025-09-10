@@ -61,7 +61,7 @@ Atualmente focado em:
 
 - 🎓 Técnico em Desenvolvimento de Sistemas - **SENAI**
 - 📚 Terceiro ano do Ensino Médio - **Educação Adventista**
-- 🌍 8 anos de Inglês - **CCAA**
+- 🌍 Formado Inglês - **CCAA**
 
 ---
 
