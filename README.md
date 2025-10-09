@@ -78,6 +78,5 @@ Atualmente focado em:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
 
-<p align="center"><i>Provérbios 12:1
-
-"Quem ama a disciplina ama o conhecimento, mas quem odeia a correção é tolo.""</i></p>
+<p align="center"><i>"Quem ama a disciplina ama o conhecimento, mas quem odeia a correção é tolo.""</i></p>
+<p align="center"><i>Provérbios 12:1</i></p>
