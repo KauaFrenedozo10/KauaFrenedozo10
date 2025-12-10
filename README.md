@@ -1,41 +1,59 @@
-<!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
+</div>
 
-<!-- TÍTULO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+em+Formação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+em+Formação;Focando+em+Java,+React+e+IA;Estudante+Técnico+do+SENAI" />
 </p>
 
 ---
 
 ## 💻 Sobre Mim
 
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-
-Sou um desenvolvedor **Full Stack** em formação, atualmente curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores.
-
-Atualmente focado em:
-
-- 🌐 Desenvolvimento Web com **JavaScript**, **HTML5** e **CSS3**
-- ⚙️ Conhecimentos em **Java** e **Python** para lógica e back-end
-- 🔀 Controle de versões com **Git** (seguindo o fluxo **GitFlow**)
-- 📌 Aplicação de metodologias ágeis como **Scrum** e **Kanban**
-- 🧹 Boas práticas de **código limpo** e **responsivo**
-
-🎯 Busco oportunidades para crescer como desenvolvedor, colaborando em projetos reais e desafiadores!
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <br>
+        Sou um desenvolvedor <b>Full Stack</b> em formação e entusiasta de Inteligência Artificial. Atualmente curso <b>Técnico em Desenvolvimento de Sistemas no SENAI</b>.
+        <br><br>
+        Estou trabalhando em projetos desafiadores que integram reconhecimento facial e aplicações web modernas.
+        <br><br>
+        🚀 <b>Foco atual:</b>
+        <ul>
+          <li>🌐 <b>Front-end:</b> React, Vite e Tailwind CSS</li>
+          <li>⚙️ <b>Back-end:</b> Java (Spring Boot) e Python</li>
+          <li>🤖 <b>IA:</b> Visão Computacional e Reconhecimento Facial</li>
+          <li>🔀 <b>DevOps:</b> GitFlow e Metodologias Ágeis</li>
+        </ul>
+      </td>
+      <td align="center">
+        <img alt="Coding" width="100%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas que utilizo
+## 🛠️ Arsenal Tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,mysql,spring,git,github&theme=dark" />
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
-</p>
+<div align="center">
+
+### Front-end & Design
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwindcss,figma&theme=dark" />
+
+### Back-end & Inteligência Artificial
+<img src="https://skillicons.dev/icons?i=java,spring,python,tensorflow,postgresql,mysql&theme=dark" />
+
+### Ferramentas & Metodologias
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
+
+</div>
 
 ---
 
@@ -54,9 +72,9 @@ Atualmente focado em:
 
 ## 🎓 Formação
 
-- 🎓 Técnico em Desenvolvimento de Sistemas - **SENAI**
-- 📚 Ensino Médio Completo - **Educação Adventista**
-- 🌍 Formado Inglês - **CCAA**
+- 🎓 **Técnico em Desenvolvimento de Sistemas** - SENAI
+- 📚 **Ensino Médio Completo** - Educação Adventista
+- 🌍 **Inglês Avançado** - CCAA
 
 ---
 
@@ -73,5 +91,5 @@ Atualmente focado em:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
 
-<p align="center"><i>"Quem ama a disciplina ama o conhecimento, mas quem odeia a correção é tolo.""</i></p>
-<p align="center"><i>Provérbios 12:1</i></p>
+<p align="center"><i>"Quem ama a disciplina ama o conhecimento, mas quem odeia a correção é tolo."</i></p>
+<p align="center"><b>Provérbios 12:1</b></p>
