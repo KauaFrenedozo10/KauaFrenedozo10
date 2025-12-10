@@ -17,21 +17,19 @@ Sou um desenvolvedor em formação, atualmente estou utilizando o curso Técnico
 
 Atualmente focado em:
 
-- 🌐 Desenvolvimento Web moderno com **React**, **Vite**, **HTML5** e **CSS3**
+- 🌐 Desenvolvimento Web moderno com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
 - ⚙️ Back-end robusto com **Java (Spring Boot)** e **Python**
-- 🤖 Estudos em **Inteligência Artificial** e Reconhecimento Facial (**TensorFlow**)
 - 🔀 Controle de versões com **Git** (seguindo o fluxo **GitFlow**)
 - 📌 Aplicação de metodologias ágeis como **Scrum** e **Kanban**
-- 🧹 Boas práticas de **código limpo** e **responsivo**
 
-🎯 Busco oportunidades para crescer como desenvolvedor, colaborando em projetos reais e desafiadores!
+Busco oportunidades para crescer como desenvolvedor, colaborando em projetos reais e desafiadores!
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwindcss,java,spring,python,tensorflow,postgresql,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwindcss,java,spring,python,postgresql,mysql,git,github&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
