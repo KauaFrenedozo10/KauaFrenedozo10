@@ -4,22 +4,20 @@
 <h1/>
 
 ---
-
 ## 💻 Sobre Mim
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Sou um desenvolvedor em formação, atualmente estou utilizando o curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores e inteligentes.
+Sou um desenvolvedor em formação, atualmente cursando **Técnico em Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas para criar aplicações web inteligentes e de alto nível.
 
-Atualmente focado em:
+Atualmente meu foco está em:
 
-- 🌐 Desenvolvimento Web moderno com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
-- ⚙️ Back-end robusto com **Java (Spring Boot)** e **Python**
-- 🔀 Controle de versões com **Git** (seguindo o fluxo **GitFlow**)
-- 📌 Aplicação de metodologias ágeis como **Scrum** e **Kanban**
+- 🌐 Desenvolvimento de interfaces modernas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
+- ⚙️ Construção de Back-end robusto utilizando **Java (Spring Boot)** e **Python**.
+- 🔀 Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo a métodologia como **GitFlow**.
+- 📌 Organização e produtividade com metodologias ágeis como **Scrum** e **Kanban**.
 
-Busco oportunidades para crescer como desenvolvedor, colaborando em projetos reais e desafiadores!
-
+🚀 Busco oportunidades para evoluir como desenvolvedor, colaborando em projetos reais e desafiadores!
 ---
 
 ## 🛠️ Tecnologias & Ferramentas que utilizo
