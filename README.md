@@ -29,7 +29,7 @@ Atualmente focado em:
 ## 🛠️ Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,mysql,springboot,git,github&theme=dark" />
 </p>
 
 ---
