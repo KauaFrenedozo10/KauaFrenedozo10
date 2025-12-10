@@ -8,46 +8,37 @@
 
 ---
 
-## 💻 Sobre Mim
+## ⚡ Sobre Mim
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="60%">
-        <br>
-        Sou um desenvolvedor <b>Full Stack</b> em formação e entusiasta de Inteligência Artificial. Atualmente curso <b>Técnico em Desenvolvimento de Sistemas no SENAI</b>.
-        <br><br>
-        Estou trabalhando em projetos desafiadores que integram reconhecimento facial e aplicações web modernas.
-        <br><br>
-        🚀 <b>Foco atual:</b>
-        <ul>
-          <li>🌐 <b>Front-end:</b> React, Vite e Tailwind CSS</li>
-          <li>⚙️ <b>Back-end:</b> Java (Spring Boot) e Python</li>
-          <li>🤖 <b>IA:</b> Visão Computacional e Reconhecimento Facial</li>
-          <li>🔀 <b>DevOps:</b> GitFlow e Metodologias Ágeis</li>
-        </ul>
-      </td>
-      <td align="center">
-        <img alt="Coding" width="100%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+
+**Fala, tudo bem?** 👋
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, curso **Técnico em Desenvolvimento de Sistemas no SENAI** e estou focado em me tornar um **Full Stack** completo.
+
+Gosto de unir o **Front-end** moderno com a robustez do **Back-end**, e ultimamente tenho mergulhado no mundo da **Inteligência Artificial**, aplicando reconhecimento facial em projetos reais.
+
+🚀 **O que estou aprontando:**
+
+* 🧠 **Inteligência Artificial:** Desenvolvendo soluções com Python e TensorFlow.
+* 🎨 **Front-end:** Criando interfaces responsivas com **React, Vite e Tailwind**.
+* ☕ **Back-end:** Construindo APIs sólidas com **Java e Spring Boot**.
+* 🤝 **Colaboração:** Trabalho em equipe utilizando **GitFlow, Scrum e Kanban**.
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-### Front-end & Design
+### 💻 Front-end & Design
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwindcss,figma&theme=dark" />
 
-### Back-end & Inteligência Artificial
+### ⚙️ Back-end & AI
 <img src="https://skillicons.dev/icons?i=java,spring,python,tensorflow,postgresql,mysql&theme=dark" />
 
-### Ferramentas & Metodologias
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+### 🔧 Ferramentas & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 <br><br>
 <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
@@ -57,7 +48,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaFrenedozo10&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
@@ -72,9 +63,15 @@
 
 ## 🎓 Formação
 
-- 🎓 **Técnico em Desenvolvimento de Sistemas** - SENAI
-- 📚 **Ensino Médio Completo** - Educação Adventista
-- 🌍 **Inglês Avançado** - CCAA
+<div align="center">
+  
+| 🏛️ Instituição | 🎓 Curso |
+| :--- | :--- |
+| **SENAI** | Técnico em Desenvolvimento de Sistemas |
+| **Educação Adventista** | Ensino Médio Completo |
+| **CCAA** | Inglês Avançado |
+
+</div>
 
 ---
 
