@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Sou um desenvolvedor **Full Stack** em formação, atualmente curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores e inteligentes.
+Sou um desenvolvedor em formação, atualmente estou utilizando o curso Técnico em Desenvolvimento de Sistemas no **SENAI** e estou sempre buscando aprender novas tecnologias para criar experiências web cada vez melhores e inteligentes.
 
 Atualmente focado em:
 
