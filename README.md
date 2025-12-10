@@ -34,12 +34,6 @@ Atualmente meu foco está em:
 ---
 
 ## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaFrenedozo10&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaFrenedozo10&layout=compact&theme=vision-friendly-dark&title_color=FFD700&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 </p>
