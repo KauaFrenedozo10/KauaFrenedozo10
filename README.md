@@ -23,7 +23,7 @@ Atualmente meu foco está em:
 ## 🛠️ Tecnologias & Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,python,postgresql,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,python,postgresql,mysql,bootstrap,git,github&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
