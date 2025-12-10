@@ -26,17 +26,12 @@ Atualmente focado em:
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias & Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,mysql,springboot,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,mysql,spring,git,github&theme=dark" />
 </p>
-
----
-
-## 🧰 Ferramentas que utilizo
-
-<p align="center">
+  <p align="center">
   <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
   <img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
