@@ -44,7 +44,7 @@ Atualmente meu foco está em:
 
 - 🎓 Técnico em Desenvolvimento de Sistemas - **SENAI** **2024 a 2025**
 - 📚 Ensino Médio Completo - **Educação Adventista**
-- 🌍 Formado Inglês - **CCAA**
+- 🌍 Formado Inglês - **Best English**
 
 ---
 
