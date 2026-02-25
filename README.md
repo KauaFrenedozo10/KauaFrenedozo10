@@ -4,7 +4,7 @@
 <h1/>
 
 ---
-## 💻 Sobre Mim
+##  Sobre Mim
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
@@ -12,15 +12,15 @@ Sou um desenvolvedor em formação, atualmente cursando **Técnico em Desenvolvi
 
 Atualmente meu foco está em:
 
-- 🌐 Desenvolvimento de interfaces modernas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
-- ⚙️ Construção de Back-end robusto utilizando **Java (Spring Boot)** e **Python**.
-- 🔀 Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo a métodologia como **GitFlow**.
-- 📌 Organização e produtividade com metodologias ágeis como **Scrum** e **Kanban**.
+-  Desenvolvimento de interfaces modernas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
+-  Construção de Back-end robusto utilizando **Java (Spring Boot)** e **Python**.
+-  Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo a métodologia como **GitFlow**.
+-  Organização e produtividade com metodologias ágeis como **Scrum** e **Kanban**.
 
-🚀 Busco oportunidades para evoluir como desenvolvedor, colaborando em projetos reais e desafiadores!
+ Busco oportunidades para evoluir como desenvolvedor, colaborando em projetos reais e desafiadores!
 ---
 
-## 🛠️ Tecnologias & Ferramentas que utilizo
+##  Tecnologias & Ferramentas que utilizo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,spring,python,postgresql,mysql,bootstrap,git,github&theme=dark" />
@@ -33,22 +33,22 @@ Atualmente meu foco está em:
 
 ---
 
-## 📊 Estatísticas GitHub
+##  Estatísticas GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 </p>
 
 ---
 
-## 🎓 Formação
+##  Formação
 
-- 🎓 Técnico em Desenvolvimento de Sistemas - **SENAI** **2024 a 2025**
-- 📚 Ensino Médio Completo - **Educação Adventista**
-- 🌍 Formado Inglês - **Best English**
+-  Técnico em Desenvolvimento de Sistemas - **SENAI** **2024 a 2025**
+-  Ensino Médio Completo - **Educação Adventista**
+-  Formado Inglês - **Best English**
 
 ---
 
-## 📫 Contato & Portfólio
+##  Contato & Portfólio
 
 <p align="center">
   <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
