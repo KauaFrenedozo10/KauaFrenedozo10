@@ -8,17 +8,17 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Sou um desenvolvedor em formação, atualmente cursando **Técnico em Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas para criar aplicações web inteligentes e de alto nível.
+Desenvolvedor focado em construir aplicações de alto nível, unindo engenharia de software robusta, automação inteligente e interfaces de alta performance. Atualmente aprimorando minhas habilidades no **SENAI**, transformo regras de negócio complexas em soluções de software eficientes e escaláveis.
 
-### Atualmente meu foco está em:
+### Linhas de Atuação e Especialidade:
 
-* Desenvolvimento de interfaces modernas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
-* Construção de Back-end robusto utilizando **Java (Spring Boot)** e **Python**.
-* Integração de sistemas, **IoT** e automação de processos utilizando **Node-RED** e **Arduino**.
-* Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo metodologias como **GitFlow**.
-* Organização e produtividade com metodologias ágeis como **Scrum** e **Kanban**.
+* Desenvolvimento de interfaces modernas e performáticas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
+* Engenharia de Back-end escalável utilizando **Java (Spring Boot)** e **Python**.
+* Arquitetura de soluções **IoT**, integração de sistemas e automação de processos com **Node-RED** e **Arduino**.
+* Controle de versionamento e fluxos de trabalho avançados em equipe via **Git** e **GitHub** com **GitFlow**.
+* Gestão ágil e execução de projetos orientada a resultados utilizando metodologias como **Scrum** e **Kanban**.
 
-*Busco oportunidades para evoluir como desenvolvedor, colaborando em projetos reais e desafiadores!*
+*Comprometido com a excelência técnica e pronto para atuar em projetos reais de alta complexidade.*
 
 ---
 
@@ -63,17 +63,4 @@ Sou um desenvolvedor em formação, atualmente cursando **Técnico em Desenvolvi
 ## Contato & Portfólio
 
 <p align="center">
-  <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-  <a href="https://instagram.com/kauafrenedozo" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
-  <a href="https://kauafrenedozo10.github.io/Portf-lio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
-</div>
-
-<p align="center"><i>"Quem ama a disciplina ama o conhecimento, mas quem odeia a correção é tolo."</i></p>
-<p align="center"><i>Provérbios 12:1</i></p>
+  <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.
