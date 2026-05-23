@@ -17,15 +17,16 @@ Atualmente meu foco está em:
 -  Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo metodologias como **GitFlow**.
 -  Organização e produtividade com metodologias ágeis como **Scrum** e **Kanban**.
 
- Busco oportunidades para evoluir como desenvolvedor, colaborando em projetos reais e desafiadores!
+ Busco oportunidades para evoluir como desenvolvedor.
 ---
 
 ##  Tecnologias & Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,java,spring,python,postgresql,mysql,bootstrap,git,electron,arduino,github,vscode,postman,linux,docker,figma,apple&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,java,spring,python,postgresql,mysql,bootstrap,git,electron,arduino,github,vscode,postman,linux,docker,figma&theme=dark" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=node-red&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
