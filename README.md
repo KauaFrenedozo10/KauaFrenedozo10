@@ -63,4 +63,17 @@ Desenvolvedor focado em construir aplicações de alto nível, unindo engenharia
 ## Contato & Portfólio
 
 <p align="center">
-  <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.
+  <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+  <a href="https://instagram.com/kauafrenedozo" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
+  <a href="https://kauafrenedozo10.github.io/Portf-lio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
+</div>
+
+<p align="center"><i>"Quem ama a disciplina ama o conhecimento, mas quem odeia a correção é tolo."</i></p>
+<p align="center"><i>Provérbios 12:1</i></p>
