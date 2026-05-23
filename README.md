@@ -1,7 +1,6 @@
-
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
-<h1/>
+</h1>
 
 ---
 ##  Sobre Mim
@@ -14,7 +13,8 @@ Atualmente meu foco está em:
 
 -  Desenvolvimento de interfaces modernas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
 -  Construção de Back-end robusto utilizando **Java (Spring Boot)** e **Python**.
--  Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo a métodologia como **GitFlow**.
+-  Integração de sistemas, **IoT** e automação de processos utilizando **Node-RED** e **Arduino**.
+-  Versionamento de código e colaboração em equipe com **Git** e **GitHub** seguindo metodologias como **GitFlow**.
 -  Organização e produtividade com metodologias ágeis como **Scrum** e **Kanban**.
 
  Busco oportunidades para evoluir como desenvolvedor, colaborando em projetos reais e desafiadores!
@@ -45,7 +45,7 @@ Atualmente meu foco está em:
 -  Técnico em Desenvolvimento de Sistemas - **SENAI** **2024 a 2025**
 -  Ensino Médio Completo - **Educação Adventista**
 -  Formado Inglês - **Best English**
--  Superior em Análise e Desenvolvimentos de Sistemas - **SENAI** **2026 a 2027**
+-  Superior em Análise e Desenvolvimento de Sistemas - **SENAI** **2026 a 2027**
 
 ---
 
