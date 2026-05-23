@@ -41,11 +41,6 @@ Desenvolvedor focado em construir aplicações de alto nível, unindo engenharia
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KauaFrenedozo10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=FFD700&title_color=FFD700&text_color=white" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaFrenedozo10&layout=compact&theme=highcontrast&hide_border=true&title_color=FFD700&text_color=white" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 </p>
 
