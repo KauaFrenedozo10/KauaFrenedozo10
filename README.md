@@ -23,7 +23,7 @@ Atualmente meu foco está em:
 ##  Tecnologias & Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,java,spring,python,postgresql,mysql,bootstrap,git,electron,arduino,github,vscode,postman,linux,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,java,spring,python,postgresql,mysql,bootstrap,git,electron,arduino,github,vscode,postman,linux,docker,figma,apple&theme=dark" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=node-red&logoColor=white"/>
