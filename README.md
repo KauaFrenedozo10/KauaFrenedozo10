@@ -61,7 +61,7 @@ Desenvolvedor focado em construir aplicações de alto nível, unindo engenharia
   <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
   <a href="https://instagram.com/kauafrenedozo" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
-  <a href="https://kauafrenedozo10.github.io/Portf-lio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/></a>
+  <a href="https://kauafrenedozo10.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/></a>
 </p>
 
 ---
