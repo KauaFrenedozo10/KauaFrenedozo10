@@ -47,11 +47,16 @@ Desenvolvedor focado em construir aplicações de alto nível, unindo engenharia
 ---
 
 ## Formação Acadêmica
-
 * **Ensino Superior:** Análise e Desenvolvimento de Sistemas — *SENAI* <kbd>2026 - 2027</kbd>
 * **Ensino Técnico:** Desenvolvimento de Sistemas — *SENAI* <kbd>2024 - 2025</kbd>
 * **Idioma:** Formado em Inglês — *Best English*
 * **Ensino Médio:** Ensino Médio Completo — *Educação Adventista*
+
+---
+
+## Emprego
+
+* **Emprego:** Vydence Medical - Jovem Aprendiz <kbd>2026 - 2027</kbd>
 
 ---
 
