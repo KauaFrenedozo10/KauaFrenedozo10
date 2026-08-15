@@ -44,11 +44,11 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
       <br><strong>HTML5</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
       <br><strong>CSS3</strong>
     </td>
     <td align="center" width="120">
@@ -68,34 +68,6 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
       <br><strong>Tailwind</strong>
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=electron" width="55" height="55" alt="Electron" />
-      <br><strong>Electron</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
-      <br><strong>Figma</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-      <br><strong>Web</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-      <br><strong>UI</strong>
-    </td>
-  </tr>
-</table>
 
 ---
 
