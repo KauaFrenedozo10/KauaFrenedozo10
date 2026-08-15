@@ -39,170 +39,59 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 # ⚙️ Tecnologias & Ferramentas
 
-### 🎨 Front-end
+## 🎨 Front-end
 
-<table align="center">
-  <tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,electron,figma&theme=dark&perline=9" />
+</p>
 
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55" height="55" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55" height="55" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><strong>JavaScript</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><strong>React</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
-      <br><strong>Vite</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" />
-      <br><strong>Tailwind</strong>
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=electron" width="55" height="55" alt="Electron" />
-      <br><strong>Electron</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
-      <br><strong>Figma</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-
-  </tr>
-</table>
+<p align="center">
+  <strong>HTML5 • CSS3 • JavaScript • React • Vite • Tailwind CSS • Bootstrap • Electron • Figma</strong>
+</p>
 
 ---
 
-### ☕ Back-end
+## ☕ Back-end
 
-<table align="center">
-  <tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postman&theme=dark&perline=5" />
+</p>
 
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
-      <br><strong>Java</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
-      <br><strong>Spring Boot</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
-      <br><strong>Postman</strong>
-    </td>
-
-  </tr>
-</table>
+<p align="center">
+  <strong>Java • Spring Boot • Python • Node.js • Postman</strong>
+</p>
 
 ---
 
-### 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
-<table align="center">
-  <tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=2" />
+</p>
 
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
-
-  </tr>
-</table>
+<p align="center">
+  <strong>PostgreSQL • MySQL</strong>
+</p>
 
 ---
 
-### 🐳 DevOps, Versionamento & Sistemas
+## 🐳 DevOps, Versionamento & Sistemas
 
-<table align="center">
-  <tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,apple&theme=dark&perline=6" />
+</p>
 
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
-      <br><strong>Linux</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=apple" width="55" height="55" alt="macOS" />
-      <br><strong>macOS</strong>
-    </td>
-
-  </tr>
-</table>
+<p align="center">
+  <strong>Docker • Git • GitHub • Linux • VS Code • macOS</strong>
+</p>
 
 ---
 
-### 🤖 IoT, Automação & Metodologias
+## 🤖 IoT, Automação & Metodologias
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=node-red&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=nodered&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
