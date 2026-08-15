@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Sou o Kauã tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 </p>
 
