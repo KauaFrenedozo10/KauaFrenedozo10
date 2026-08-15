@@ -1,18 +1,16 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo&fontSize=28&fontColor=FFD700&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo&fontSize=28&fontColor=00BFFF&animation=twinkling"/>
 </h1>
 
-<h1 align="center">Sobre Mim</h1>
+# Sobre Mim
 
-<p align="center">
-  <img alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-</p>
+<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<p align="center">
-  Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-</p>
+Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
-<h1 align="center">Tecnologias</h1>
+<br clear="right">
+
+# Tecnologias
 
 <p align="center">
 
@@ -58,89 +56,75 @@
 
 </p>
 
-<h1 align="center">IoT & Automação</h1>
+# IoT & Automação
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=nodered&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node--RED-0D1117?style=for-the-badge&logo=nodered&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=trello&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=jira&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GitFlow-0D1117?style=for-the-badge&logo=git&logoColor=00BFFF"/>
 
 </p>
 
-<h1 align="center">GitHub</h1>
+# GitHub
 
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
+  src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
   alt="GitHub Streak"
 />
 
 </p>
 
-<h1 align="center">Formação</h1>
+# Formação
 
-<p align="center">
+**Análise e Desenvolvimento de Sistemas** — SENAI  
+`2026 - 2027`
 
-<strong>Análise e Desenvolvimento de Sistemas</strong> — SENAI<br>
-<code>2026 - 2027</code>
+**Desenvolvimento de Sistemas** — SENAI  
+`2024 - 2025`
 
-<br><br>
+**Inglês** — Best English
 
-<strong>Desenvolvimento de Sistemas</strong> — SENAI<br>
-<code>2024 - 2025</code>
+**Ensino Médio Completo** — Educação Adventista
 
-<br><br>
+# Experiência
 
-<strong>Inglês</strong> — Best English
+**Vydence Medical — Jovem Aprendiz**  
+`2026 - 2027`
 
-<br><br>
-
-<strong>Ensino Médio Completo</strong> — Educação Adventista
-
-</p>
-
-<h1 align="center">Experiência</h1>
-
-<p align="center">
-
-<strong>Vydence Medical — Jovem Aprendiz</strong><br>
-<code>2026 - 2027</code>
-
-</p>
-
-<h1 align="center">Contato</h1>
+# Contato
 
 <p align="center">
 
 <a href="mailto:kfrenedoso@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5">
-<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
 
 <a href="https://instagram.com/kauafrenedozo">
-<img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
 </a>
 
 <a href="https://kauafrenedozo10.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF"/>
 </a>
 
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
 
 <br>
 
