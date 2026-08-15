@@ -81,7 +81,7 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=KauaFrenedozo10&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=KauaFrenedozo10&theme=dark&hide_border=true"
   alt="GitHub Streak"
 />
 
