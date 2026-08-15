@@ -2,17 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
 </h1>
 
-<div align="center">
-
-### Desenvolvedor de Software | Full Stack | IoT | Automação
-
-Construindo soluções modernas, escaláveis e eficientes através de tecnologia, engenharia de software e automação.
-
-</div>
-
 ---
 
-## 👨‍💻 Sobre Mim
+##Sobre Mim
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
@@ -23,7 +15,7 @@ Sou o Kauã, tenho 19 anos
 
 ---
 
-## ⚙️ Tecnologias
+##Tecnologias
 
 <p align="center">
 
@@ -89,7 +81,7 @@ Sou o Kauã, tenho 19 anos
 
 ---
 
-## 🤖 IoT & Automação
+##IoT & Automação
 
 <p align="center">
 
@@ -107,7 +99,7 @@ Sou o Kauã, tenho 19 anos
 
 ---
 
-## 📊 GitHub
+##GitHub
 
 <p align="center">
 
@@ -120,7 +112,7 @@ Sou o Kauã, tenho 19 anos
 
 ---
 
-## 🎓 Formação
+##Formação
 
 **Análise e Desenvolvimento de Sistemas** — SENAI  
 `2026 - 2027`
@@ -134,14 +126,14 @@ Sou o Kauã, tenho 19 anos
 
 ---
 
-## 💼 Experiência
+##Experiência
 
 **Vydence Medical — Jovem Aprendiz**  
 `2026 - 2027`
 
 ---
 
-## 📫 Contato
+##Contato
 
 <p align="center">
 
