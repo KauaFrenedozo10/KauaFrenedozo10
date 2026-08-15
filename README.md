@@ -45,22 +45,22 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
   <tr>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55" height="55" alt="HTML5" />
       <br><strong>HTML5</strong>
     </td>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55" height="55" alt="CSS3" />
       <br><strong>CSS3</strong>
     </td>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br><strong>JavaScript</strong>
     </td>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br><strong>React</strong>
     </td>
 
@@ -119,7 +119,7 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
     </td>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br><strong>Python</strong>
     </td>
 
@@ -164,7 +164,7 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
   <tr>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
 
@@ -174,7 +174,7 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
     </td>
 
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
 
@@ -203,9 +203,13 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 <p align="center">
 
 <img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=node-red&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
+
 <img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
+
 <img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
 
 </p>
@@ -215,12 +219,10 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
     alt="GitHub Streak"
   />
-
 </p>
 
 ---
