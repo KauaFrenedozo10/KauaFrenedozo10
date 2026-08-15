@@ -8,8 +8,6 @@
 
 Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
-Tenho interesse em desenvolvimento de software, aplicações web, automação e tecnologia. Busco constantemente evoluir minhas habilidades e transformar ideias em soluções funcionais e eficientes.
-
 <br clear="right">
 
 # Tecnologias
