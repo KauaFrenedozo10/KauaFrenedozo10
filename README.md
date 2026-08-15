@@ -20,74 +20,94 @@ Desenvolvedor focado em construir aplicações de alto nível, unindo **engenhar
 
 Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras de negócio complexas em soluções de software eficientes, escaláveis e bem estruturadas.
 
-### 🚀 Linhas de Atuação
+### 🚀 Especialidades
 
-- 🎨 Desenvolvimento de interfaces modernas e performáticas com **React, Vite, HTML5, CSS3 e JavaScript**.
-- ☕ Desenvolvimento de Back-end utilizando **Java, Spring Boot e Python**.
-- 🤖 Desenvolvimento de soluções **IoT**, integração de sistemas e automação utilizando **Node-RED e Arduino**.
-- 🔀 Controle de versionamento e fluxos de trabalho utilizando **Git, GitHub e GitFlow**.
-- 🐳 Desenvolvimento e gerenciamento de ambientes utilizando **Docker**.
-- 🗄️ Desenvolvimento e gerenciamento de bancos de dados com **PostgreSQL e MySQL**.
-- 📋 Organização e execução de projetos utilizando metodologias **Scrum e Kanban**.
-- 🧪 Testes, integração de APIs e desenvolvimento utilizando ferramentas como **Postman**.
-
-> 💡 Comprometido com a excelência técnica e sempre buscando evoluir através de novos desafios e projetos reais.
+- 🎨 Front-end com **React, Vite, HTML5, CSS3 e JavaScript**
+- ☕ Back-end com **Java, Spring Boot e Python**
+- 🤖 **IoT e automação** com Node-RED e Arduino
+- 🔀 Versionamento com **Git, GitHub e GitFlow**
+- 🐳 Ambientes com **Docker**
+- 🗄️ Bancos de dados **PostgreSQL e MySQL**
+- 🧪 APIs e testes utilizando **Postman**
+- 📋 Metodologias **Scrum e Kanban**
 
 <br clear="right"/>
 
 ---
 
-# ⚙️ Tecnologias & Ferramentas
+## ⚙️ Tecnologias
 
-## 🎨 Front-end
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,electron,figma&theme=dark&perline=9" />
-</p>
+### Front-end
 
 <p align="center">
-  <strong>HTML5 • CSS3 • JavaScript • React • Vite • Tailwind CSS • Bootstrap • Electron • Figma</strong>
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css&perline=2" width="110" alt="HTML5 e CSS3"/>
 
-## ☕ Back-end
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postman&theme=dark&perline=5" />
-</p>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 
-<p align="center">
-  <strong>Java • Spring Boot • Python • Node.js • Postman</strong>
+<img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap"/>
+
 </p>
 
 ---
 
-## 🗄️ Banco de Dados
+### Back-end
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=2" />
-</p>
 
-<p align="center">
-  <strong>PostgreSQL • MySQL</strong>
-</p>
+<img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
 
----
+<img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot"/>
 
-## 🐳 DevOps, Versionamento & Sistemas
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,apple&theme=dark&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
 
-<p align="center">
-  <strong>Docker • Git • GitHub • Linux • VS Code • macOS</strong>
+<img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman"/>
+
 </p>
 
 ---
 
-## 🤖 IoT, Automação & Metodologias
+### Banco de Dados
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+
+</p>
+
+---
+
+### DevOps & Ferramentas
+
+<p align="center">
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
+
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/>
+
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
+
+<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma"/>
+
+</p>
+
+---
+
+### IoT & Automação
 
 <p align="center">
 
@@ -95,60 +115,59 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
-
 </p>
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
-    alt="GitHub Streak"
-  />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+
 </p>
 
 ---
 
-# 🎓 Formação Acadêmica
+## 🎓 Formação
 
-- 🎓 **Ensino Superior:** Análise e Desenvolvimento de Sistemas — *SENAI* <kbd>2026 - 2027</kbd>
-- 💻 **Ensino Técnico:** Desenvolvimento de Sistemas — *SENAI* <kbd>2024 - 2025</kbd>
-- 🇺🇸 **Idioma:** Inglês — *Best English*
-- 📚 **Ensino Médio:** Ensino Médio Completo — *Educação Adventista*
+**Análise e Desenvolvimento de Sistemas** — SENAI  
+`2026 - 2027`
+
+**Desenvolvimento de Sistemas** — SENAI  
+`2024 - 2025`
+
+**Inglês** — Best English
+
+**Ensino Médio Completo** — Educação Adventista
 
 ---
 
-# 💼 Experiência Profissional
+## 💼 Experiência
 
-- **Vydence Medical — Jovem Aprendiz** <kbd>2026 - 2027</kbd>
+**Vydence Medical — Jovem Aprendiz**  
+`2026 - 2027`
 
 ---
 
-# 📫 Contato & Portfólio
+## 📫 Contato
 
 <p align="center">
 
 <a href="mailto:kfrenedoso@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5">
-  <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="https://instagram.com/kauafrenedozo">
-  <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
 </a>
 
 <a href="https://kauafrenedozo10.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/>
 </a>
 
 </p>
@@ -157,7 +176,7 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
 <br>
 
