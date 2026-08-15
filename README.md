@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo&fontSize=28&fontColor=FFD700&animation=twinkling"/>
 </h1>
 
-# Sobre Mim
+<h1 align="center">Sobre Mim</h1>
 
-<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<p align="center">
+  <img alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+</p>
 
-Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+<p align="center">
+  Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+</p>
 
-<br clear="right">
-
-# Tecnologias
+<h1 align="center">Tecnologias</h1>
 
 <p align="center">
 
@@ -56,7 +58,7 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 
 </p>
 
-# IoT & Automação
+<h1 align="center">IoT & Automação</h1>
 
 <p align="center">
 
@@ -72,7 +74,7 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 
 </p>
 
-# GitHub
+<h1 align="center">GitHub</h1>
 
 <p align="center">
 
@@ -83,24 +85,38 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 
 </p>
 
-# Formação
+<h1 align="center">Formação</h1>
 
-**Análise e Desenvolvimento de Sistemas** — SENAI  
-`2026 - 2027`
+<p align="center">
 
-**Desenvolvimento de Sistemas** — SENAI  
-`2024 - 2025`
+<strong>Análise e Desenvolvimento de Sistemas</strong> — SENAI<br>
+<code>2026 - 2027</code>
 
-**Inglês** — Best English
+<br><br>
 
-**Ensino Médio Completo** — Educação Adventista
+<strong>Desenvolvimento de Sistemas</strong> — SENAI<br>
+<code>2024 - 2025</code>
 
-# Experiência
+<br><br>
 
-**Vydence Medical — Jovem Aprendiz**  
-`2026 - 2027`
+<strong>Inglês</strong> — Best English
 
-# Contato
+<br><br>
+
+<strong>Ensino Médio Completo</strong> — Educação Adventista
+
+</p>
+
+<h1 align="center">Experiência</h1>
+
+<p align="center">
+
+<strong>Vydence Medical — Jovem Aprendiz</strong><br>
+<code>2026 - 2027</code>
+
+</p>
+
+<h1 align="center">Contato</h1>
 
 <p align="center">
 
