@@ -4,9 +4,13 @@
 
 # Sobre Mim
 
+<p align="center">
+
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+
+</p>
 
 <br clear="right">
 
@@ -77,7 +81,7 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+  src="https://github-readme-streak-vercel.vercel.app?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
   alt="GitHub Streak"
 />
 
@@ -85,20 +89,37 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 
 # Formação
 
-**Análise e Desenvolvimento de Sistemas** — SENAI  
-`2026 - 2027`
+<p align="center">
 
-**Desenvolvimento de Sistemas** — SENAI  
-`2024 - 2025`
+<strong>Análise e Desenvolvimento de Sistemas</strong> — SENAI  
+<code>2026 - 2027</code>
 
-**Inglês** — Best English
+<br><br>
 
-**Ensino Médio Completo** — Educação Adventista
+<strong>Desenvolvimento de Sistemas</strong> — SENAI  
+<code>2024 - 2025</code>
+
+<br><br>
+
+<strong>Inglês</strong> — Best English
+
+<br><br>
+
+<strong>Ensino Médio Completo</strong> — Educação Adventista
+
+</p>
 
 # Experiência
 
-**Vydence Medical — Jovem Aprendiz**  
-`2026 - 2027`
+<p align="center">
+
+<strong>Vydence Medical — Jovem Aprendiz</strong>
+
+<br>
+
+<code>2026 - 2027</code>
+
+</p>
 
 # Contato
 
