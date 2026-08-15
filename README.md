@@ -47,27 +47,33 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
       <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
       <br><strong>HTML5</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
       <br><strong>CSS3</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br><strong>JavaScript</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br><strong>React</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
       <br><strong>Vite</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" />
       <br><strong>Tailwind</strong>
     </td>
   </tr>
+</table>
 
 ---
 
@@ -79,18 +85,22 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
       <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
       <br><strong>Java</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
-      <br><strong>Spring</strong>
+      <br><strong>Spring Boot</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br><strong>Python</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
       <br><strong>Node.js</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
       <br><strong>Postman</strong>
@@ -108,6 +118,7 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
       <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
+
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
       <br><strong>MySQL</strong>
@@ -125,22 +136,27 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
       <br><strong>Git</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
       <br><strong>VS Code</strong>
     </td>
+
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=apple" width="55" height="55" alt="macOS" />
       <br><strong>macOS</strong>
@@ -215,7 +231,6 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 ---
 
 <div align="center">
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
 
