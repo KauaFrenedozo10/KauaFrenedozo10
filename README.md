@@ -16,20 +16,8 @@ Construindo soluções modernas, escaláveis e eficientes através de tecnologia
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Desenvolvedor focado em construir aplicações de alto nível, unindo **engenharia de software robusta, automação inteligente e interfaces de alta performance**.
+Sou o Kauã, tenho 19 anos 
 
-Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras de negócio complexas em soluções de software eficientes, escaláveis e bem estruturadas.
-
-### 🚀 Especialidades
-
-- 🎨 Desenvolvimento de interfaces com **React, Vite, HTML5, CSS3 e JavaScript**
-- ☕ Back-end com **Java, Spring Boot e Python**
-- 🤖 **IoT e automação** com Node-RED e Arduino
-- 🔀 Versionamento com **Git, GitHub e GitFlow**
-- 🐳 Ambientes com **Docker**
-- 🗄️ Bancos de dados com **PostgreSQL e MySQL**
-- 🧪 APIs e testes com **Postman**
-- 📋 Metodologias **Scrum e Kanban**
 
 <br clear="right"/>
 
