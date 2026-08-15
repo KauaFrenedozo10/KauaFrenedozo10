@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo&fontSize=28&fontColor=00BFFF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo&fontSize=28&fontColor=A970FF&animation=twinkling"/>
 </h1>
 
 # Sobre Mim
@@ -64,15 +64,15 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node--RED-0D1117?style=for-the-badge&logo=nodered&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Node--RED-161B22?style=for-the-badge&logo=nodered&logoColor=A970FF"/>
 
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=A970FF"/>
 
-<img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=trello&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Scrum-161B22?style=for-the-badge&logo=trello&logoColor=A970FF"/>
 
-<img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=jira&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Kanban-161B22?style=for-the-badge&logo=jira&logoColor=A970FF"/>
 
-<img src="https://img.shields.io/badge/GitFlow-0D1117?style=for-the-badge&logo=git&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/GitFlow-161B22?style=for-the-badge&logo=git&logoColor=A970FF"/>
 
 </p>
 
@@ -81,7 +81,7 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 <p align="center">
 
 <img
-  src="https://github-readme-streak-vercel.vercel.app?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+  src="https://streak-stats.demolab.com/?user=KauaFrenedozo10&theme=dark&hide_border=true&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
   alt="GitHub Streak"
 />
 
@@ -91,12 +91,18 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 
 <p align="center">
 
-<strong>Análise e Desenvolvimento de Sistemas</strong> — SENAI  
+<strong>Análise e Desenvolvimento de Sistemas</strong> — SENAI
+
+<br>
+
 <code>2026 - 2027</code>
 
 <br><br>
 
-<strong>Desenvolvimento de Sistemas</strong> — SENAI  
+<strong>Desenvolvimento de Sistemas</strong> — SENAI
+
+<br>
+
 <code>2024 - 2025</code>
 
 <br><br>
@@ -126,26 +132,26 @@ Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sist
 <p align="center">
 
 <a href="mailto:kfrenedoso@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A970FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=A970FF"/>
 </a>
 
 <a href="https://instagram.com/kauafrenedozo">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=A970FF"/>
 </a>
 
 <a href="https://kauafrenedozo10.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Portfólio-161B22?style=for-the-badge&logo=react&logoColor=A970FF"/>
 </a>
 
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=120&section=footer"/>
 
 <br>
 
