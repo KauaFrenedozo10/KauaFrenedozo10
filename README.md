@@ -2,78 +2,294 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
 </h1>
 
+<div align="center">
+
+### Desenvolvedor de Software | Full Stack | IoT | Automação
+
+Construindo soluções modernas, escaláveis e eficientes através de tecnologia, engenharia de software e automação.
+
+</div>
+
 ---
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Desenvolvedor focado em construir aplicações de alto nível, unindo engenharia de software robusta, automação inteligente e interfaces de alta performance. Atualmente aprimorando minhas habilidades no **SENAI**, transformo regras de negócio complexas em soluções de software eficientes e escaláveis.
+Desenvolvedor focado em construir aplicações de alto nível, unindo **engenharia de software robusta, automação inteligente e interfaces de alta performance**.
 
-### Linhas de Atuação e Especialidade:
+Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras de negócio complexas em soluções de software eficientes, escaláveis e bem estruturadas.
 
-* Desenvolvimento de interfaces modernas e performáticas com **React**, **Vite**, **HTML5**, **CSS3** e **JavaScript**.
-* Engenharia de Back-end escalável utilizando **Java (Spring Boot)** e **Python**.
-* Arquitetura de soluções **IoT**, integração de sistemas e automação de processos com **Node-RED** e **Arduino**.
-* Controle de versionamento e fluxos de trabalho avançados em equipe via **Git** e **GitHub** com **GitFlow**.
-* Gestão ágil e execução de projetos orientada a resultados utilizando metodologias como **Scrum** e **Kanban**.
+### 🚀 Linhas de Atuação
 
-*Comprometido com a excelência técnica e pronto para atuar em projetos reais de alta complexidade.*
+- 🎨 Desenvolvimento de interfaces modernas e performáticas com **React, Vite, HTML5, CSS3 e JavaScript**.
+- ☕ Desenvolvimento de Back-end utilizando **Java, Spring Boot e Python**.
+- 🤖 Desenvolvimento de soluções **IoT**, integração de sistemas e automação utilizando **Node-RED e Arduino**.
+- 🔀 Controle de versionamento e fluxos de trabalho utilizando **Git, GitHub e GitFlow**.
+- 🐳 Desenvolvimento e gerenciamento de ambientes utilizando **Docker**.
+- 🗄️ Desenvolvimento e gerenciamento de bancos de dados com **PostgreSQL e MySQL**.
+- 📋 Organização e execução de projetos utilizando metodologias **Scrum e Kanban**.
+- 🧪 Testes, integração de APIs e desenvolvimento utilizando ferramentas como **Postman**.
+
+> 💡 Comprometido com a excelência técnica e sempre buscando evoluir através de novos desafios e projetos reais.
+
+<br clear="right"/>
 
 ---
 
-## Tecnologias & Ferramentas que utilizo
+# ⚙️ Tecnologias & Ferramentas
+
+### 🎨 Front-end
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
+      <br><strong>Vite</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" />
+      <br><strong>Tailwind</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=electron" width="55" height="55" alt="Electron" />
+      <br><strong>Electron</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+      <br><strong>Web</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+      <br><strong>UI</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☕ Back-end
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
+      <br><strong>Spring</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+      <br><strong>Postman</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗄️ Banco de Dados
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐳 DevOps, Versionamento & Sistemas
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=apple" width="55" height="55" alt="macOS" />
+      <br><strong>macOS</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤖 IoT, Automação & Metodologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,java,spring,python,postgresql,mysql,bootstrap,git,electron,arduino,github,vscode,postman,linux,docker,figma&theme=dark" />
+
+<img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=node-red&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
+
+</p>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=node-red&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KauaFrenedozo10&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000"
+    alt="GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaFrenedozo10&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=000000"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 ---
 
-## Estatísticas do GitHub
+# 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=KauaFrenedozo10&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7"
+    alt="GitHub Profile Trophy"
+  />
 </p>
 
 ---
 
-## Formação Acadêmica
-* **Ensino Superior:** Análise e Desenvolvimento de Sistemas — *SENAI* <kbd>2026 - 2027</kbd>
-* **Ensino Técnico:** Desenvolvimento de Sistemas — *SENAI* <kbd>2024 - 2025</kbd>
-* **Idioma:** Formado em Inglês — *Best English*
-* **Ensino Médio:** Ensino Médio Completo — *Educação Adventista*
-
----
-
-## Emprego
-
-* **Emprego:** Vydence Medical - Jovem Aprendiz <kbd>2026 - 2027</kbd>
-
----
-
-## Contato & Portfólio
+# 📈 Atividade no GitHub
 
 <p align="center">
-  <a href="mailto:kfrenedoso@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-  <a href="https://instagram.com/kauafrenedozo" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
-  <a href="https://kauafrenedozo10.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/></a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KauaFrenedozo10&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🎓 Formação Acadêmica
+
+- 🎓 **Ensino Superior:** Análise e Desenvolvimento de Sistemas — *SENAI* <kbd>2026 - 2027</kbd>
+- 💻 **Ensino Técnico:** Desenvolvimento de Sistemas — *SENAI* <kbd>2024 - 2025</kbd>
+- 🇺🇸 **Idioma:** Inglês — *Best English*
+- 📚 **Ensino Médio:** Ensino Médio Completo — *Educação Adventista*
+
+---
+
+# 💼 Experiência Profissional
+
+- **Vydence Medical — Jovem Aprendiz** <kbd>2026 - 2027</kbd>
+
+---
+
+# 📫 Contato & Portfólio
+
+<p align="center">
+
+<a href="mailto:kfrenedoso@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kau%C3%A3-frenedozo-8641492b5">
+  <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="https://instagram.com/kauafrenedozo">
+  <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+</a>
+
+<a href="https://kauafrenedozo10.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=react&logoColor=000000"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
-</div>
 
-<p align="center"><i>"Todo trabalho árduo traz proveito, mas o só falar leva à pobreza."</i></p>
-<p align="center"><i>Provérbios 14:23</i></p>
+### ⚡ Sempre aprendendo. Sempre construindo. Sempre evoluindo.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
+
+<br>
+
+<i>"Todo trabalho árduo traz proveito, mas o só falar leva à pobreza."</i>
+
+<br>
+
+<i>Provérbios 14:23</i>
+
+</div>
