@@ -201,21 +201,6 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KauaFrenedozo10&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000"
-    alt="GitHub Stats"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaFrenedozo10&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=000000"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-
 ---
 
 # 🎓 Formação Acadêmica
