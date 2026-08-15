@@ -22,13 +22,13 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 ### 🚀 Especialidades
 
-- 🎨 Front-end com **React, Vite, HTML5, CSS3 e JavaScript**
+- 🎨 Desenvolvimento de interfaces com **React, Vite, HTML5, CSS3 e JavaScript**
 - ☕ Back-end com **Java, Spring Boot e Python**
 - 🤖 **IoT e automação** com Node-RED e Arduino
 - 🔀 Versionamento com **Git, GitHub e GitFlow**
 - 🐳 Ambientes com **Docker**
-- 🗄️ Bancos de dados **PostgreSQL e MySQL**
-- 🧪 APIs e testes utilizando **Postman**
+- 🗄️ Bancos de dados com **PostgreSQL e MySQL**
+- 🧪 APIs e testes com **Postman**
 - 📋 Metodologias **Scrum e Kanban**
 
 <br clear="right"/>
@@ -37,83 +37,83 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 ## ⚙️ Tecnologias
 
-### Front-end
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css&perline=2" width="110" alt="HTML5 e CSS3"/>
+<!-- HTML -->
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/>
 
+<!-- CSS -->
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/>
+
+<!-- JavaScript - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
 
+<!-- React - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 
-<img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap"/>
-
-</p>
-
----
-
-### Back-end
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
-
-<img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot"/>
-
+<!-- Python - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
+<!-- Java -->
+<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java"/>
 
-<img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman"/>
+<!-- Spring -->
+<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/>
+
+<!-- Vite -->
+<img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite"/>
+
+<!-- Tailwind -->
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS"/>
+
+<!-- Bootstrap -->
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/>
 
 </p>
 
----
-
-### Banco de Dados
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL"/>
+<!-- Node.js -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+<!-- PostgreSQL -->
+<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/>
 
-</p>
+<!-- MySQL -->
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL"/>
 
----
-
-### DevOps & Ferramentas
-
-<p align="center">
-
+<!-- Docker - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
 
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+<!-- Git -->
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
 
+<!-- GitHub - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/>
 
-<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/>
+<!-- Linux -->
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/>
 
-<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
-
-<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma"/>
+<!-- VS Code -->
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/>
 
 </p>
 
 ---
 
-### IoT & Automação
+## 🤖 IoT & Automação
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Node--RED-8F1426?style=for-the-badge&logo=nodered&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scrum-FFD700?style=for-the-badge&logo=trello&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/Kanban-FFD700?style=for-the-badge&logo=jira&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/GitFlow-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
 
 </p>
 
@@ -123,7 +123,10 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=KauaFrenedozo10&theme=highcontrast&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
+  alt="GitHub Streak"
+/>
 
 </p>
 
