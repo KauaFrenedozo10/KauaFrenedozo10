@@ -1,87 +1,64 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo%20&fontSize=28&fontColor=FFD700&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20Kauã%20Frenedozo&fontSize=28&fontColor=FFD700&animation=twinkling"/>
 </h1>
 
----
-
-##Sobre Mim
+# Sobre Mim
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-Sou o Kauã, tenho 19 anos 
+Sou o Kauã, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 
+Tenho interesse em desenvolvimento de software, aplicações web, automação e tecnologia. Busco constantemente evoluir minhas habilidades e transformar ideias em soluções funcionais e eficientes.
 
-<br clear="right"/>
+<br clear="right">
 
----
-
-##Tecnologias
+# Tecnologias
 
 <p align="center">
 
-<!-- HTML -->
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/>
 
-<!-- CSS -->
 <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/>
 
-<!-- JavaScript - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
 
-<!-- React - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
 
-<!-- Python - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
 
-<!-- Java -->
 <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java"/>
 
-<!-- Spring -->
 <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/>
 
-<!-- Vite -->
 <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite"/>
 
-<!-- Tailwind -->
 <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS"/>
 
-<!-- Bootstrap -->
 <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/>
 
 </p>
 
 <p align="center">
 
-<!-- Node.js -->
 <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
 
-<!-- PostgreSQL -->
 <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL"/>
 
-<!-- MySQL -->
 <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL"/>
 
-<!-- Docker - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
 
-<!-- Git -->
 <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
 
-<!-- GitHub - ANIMADO -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/>
 
-<!-- Linux -->
 <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/>
 
-<!-- VS Code -->
 <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/>
 
 </p>
 
----
-
-##IoT & Automação
+# IoT & Automação
 
 <p align="center">
 
@@ -97,9 +74,7 @@ Sou o Kauã, tenho 19 anos
 
 </p>
 
----
-
-##GitHub
+# GitHub
 
 <p align="center">
 
@@ -110,9 +85,7 @@ Sou o Kauã, tenho 19 anos
 
 </p>
 
----
-
-##Formação
+# Formação
 
 **Análise e Desenvolvimento de Sistemas** — SENAI  
 `2026 - 2027`
@@ -124,16 +97,12 @@ Sou o Kauã, tenho 19 anos
 
 **Ensino Médio Completo** — Educação Adventista
 
----
-
-##Experiência
+# Experiência
 
 **Vydence Medical — Jovem Aprendiz**  
 `2026 - 2027`
 
----
-
-##Contato
+# Contato
 
 <p align="center">
 
@@ -154,8 +123,6 @@ Sou o Kauã, tenho 19 anos
 </a>
 
 </p>
-
----
 
 <div align="center">
 
