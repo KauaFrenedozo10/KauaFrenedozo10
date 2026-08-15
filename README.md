@@ -215,27 +215,6 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
   />
 </p>
 
----
-
-# 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KauaFrenedozo10&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7"
-    alt="GitHub Profile Trophy"
-  />
-</p>
-
----
-
-# 📈 Atividade no GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KauaFrenedozo10&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 ---
 
@@ -280,7 +259,6 @@ Atualmente aprimorando minhas habilidades no **SENAI**, busco transformar regras
 
 <div align="center">
 
-### ⚡ Sempre aprendendo. Sempre construindo. Sempre evoluindo.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
 
